@@ -52,4 +52,4 @@ To use the E-commerce Back End Starter Code, follow these steps:
 
 ## Example Video
 
-[Example video]()
+[Example video](https://drive.google.com/file/d/1FEMb5mxN4t6eo1fSvhEIvWXZ2BgnPz7E/view)
