@@ -18,7 +18,7 @@ CREATE TABLE products (
     id INT AUTO_INCREMENT PRIMARY KEY,
     product_name VARCHAR(30) NOT NULL,
     price DECIMAL(10, 2) NOT NULL,
-    stock INT NOT NULL DEFAULT 10 NUMERIC,
+    stock INT NOT NULL DEFAULT 10,
     category_id INT,
     FOREIGN KEY (category_id) REFERENCES categories(id)
 );
