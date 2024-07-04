@@ -1,31 +1,31 @@
 # E-commerce Back End Starter Code
 
-![Ecommerce Image](https://i1.wp.com/billionaire365.com/wp-content/uploads/2019/02/Ecommerce-Website.jpg?fit=2048%2C1452&ssl=1)
+![Ecommerce Image](https://i1.wp.com/billionaire365.com/wp-content/uploads/2019/02/Ecommerce-Website.jpg?fit=204%2C1452&ssl=1)
 
 This repository contains the code for the backend services of an eCommerce application. The backend is built using Node.js and Express, and it connects to a MYSQl database. This README provides instructions for setting up and running the backend locally.
 
 ## Table of Contents
 
--[Features](#features)
--[Technologies](#technologies)
--[Installation](#-installation)
--[Usage](#usage)
--[License](#license)
--[Example Video](#example-video)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#-installation)
+- [Usage](#usage)
+- [License](#license)
+- [Example Video](#example-video)
 
 ## Features
 
--User authentication and authorization
--Product management (CRUD operations)
--RESTFUL Api
--Routing
+- User authentication and authorization
+- Product management (CRUD operations)
+- RESTFUL Api
+- Routing
 
 ## Technologies
 
--Node.js
--Express.js
--npm (Sequelize)
--MYSQL2
+- Node.js
+- Express.js
+- npm (Sequelize)
+- MYSQL2
 
 ## Installation
 
